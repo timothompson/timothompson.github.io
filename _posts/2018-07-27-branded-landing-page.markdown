@@ -28,13 +28,29 @@ My manager and I began the project by hosting a mini-hackathon with all designer
 <div class="full-bleed-grey" markdown="1">
 <div class="wrapper" markdown="1">
 # Iterating and Packaging
-With planning help from my manager, I iterated on landing page concepts for both desktop and mobile. Created a first draft of the print collateral for the Branded Landing Page and presented it to Cheryl and other stakeholders. ·	
+With planning help from my manager, I iterated on landing page concepts for both desktop and mobile. I also created print collateral for the landing page and presented it to Cheryl and other stakeholders. ·	
+</div>
+<div class="midsize-image">
+	<img src="/assets/landing_page_print1.png" style="border: 1px solid #ddd"/>
+</div>
+<div class="midsize-image">
+	<img src="/assets/landing_page_print2.png" style="border: 1px solid #ddd"/>
 </div>
 </div>
 
 <div class="full-bleed-white" markdown="1">
 <div class="wrapper" markdown="1">
 # Sign-off and Styling 
-After making some changes to the concepts, I received final sign-off and began working with an internal development team to complete the default version of the landing page.
+After making some changes to the concepts, I received final sign-off and began working with an internal development team to complete the default version of the landing page. 
+</div>
+</div>
+
+<div class="full-bleed-grey" markdown="1">
+<div class="wrapper" markdown="1">
+# Rolling out to Clients
+We then designed and deployed landing pages for Ensure and Pediasure. ·	
+</div>
+<div class="midsize-image">
+	<img src="/assets/ensure_landing_page.png" style="border: 1px solid #ddd"/>
 </div>
 </div>

@@ -40,8 +40,8 @@ I began with sketching and paper prototyping usability tests. Based on the resul
 Thumbnail sketches were made on paper, cut out and arranged to map out the flow. The revised user flows were mapped out in Sketch.
 </div>
 
-<div class="midsize-image" markdown="1">
-  ![user flow](/assets/user_flow.png)
+<div class="midsize-image">
+	<img src="/assets/garden_wireframes.png" style="border: 1px solid #ddd"/>
 </div>
 </div>
 
@@ -50,8 +50,7 @@ Thumbnail sketches were made on paper, cut out and arranged to map out the flow.
 # Wireframes
 Wireframes were created from the sketches, fit into the user flows and a prototype was created after exporting the wireframes to Invision.
 </div>
-
-<div class="midsize-image" markdown="1">
-  ![wireframes](/assets/wires_v2.png)
+<div class="midsize-image">
+	<img src="/assets/garden_wireframes.png" style="border: 1px solid #ddd"/>
 </div>
 </div>
