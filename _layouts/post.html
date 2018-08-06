@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article class="post {{ page.style-class }}">
+  <div class="wrapper">
+    <header class="post-header">
+      <div class="post-description">
+        <h1 class="post-title">{{ page.title }}</h1>
+        <p>{{ page.longintro }}</p>
+      </div>
+      <ul class="post-info">
+        {% for info in page.info %}
+          <li class="col-3">
+            <span class="bold">{{ info[0] }}</span>
+            <br />{{ info[1] }}
+          </li>
+        {% endfor %}
+      </ul>
+    </header>
+  </div>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+</article>
