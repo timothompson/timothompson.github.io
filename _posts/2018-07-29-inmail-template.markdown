@@ -8,7 +8,7 @@ caption: "UI Design"
 type: "Work Project"
 info: {Responsibilities: UI Designer, Type: Bazaarvoice, Date: 2018}
 intro: "Designing in-mail post-interaction email for Bazaarvoice."
-longintro: "Jeff Van Horn had reached out to the Design Services team for help in designing the visual design of the new interactive mail template being created by the Product Team."
+longintro: "A product manager at Bazaarvoice reached out to our internal Design team for help in designing the visual design of the new interactive mail template being created by the Product Team."
 style-class: inmail
 ---
 

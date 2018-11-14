@@ -7,15 +7,15 @@ thumbnail: /images/thumb-socialalerts.png
 caption: "Wireframes and Planning"
 type: "Work"
 info: {Responsibilities: UI Designer, Type: Bazaarvoice, Date: 2017}
-intro: "Creating initial wireframes for an internal tool for creating Social Alerts emails."
-longintro: "Creating initial wireframes for an internal tool for creating Social Alerts emails."
+intro: "Creating wireframes for an internal tool for creating Social Alerts email templates."
+longintro: "Creating wireframes for an internal tool for creating Social Alerts email templates."
 style-class: socialalerts
 ---
 
 <div class="full-bleed-white" markdown="1">
 <div class="wrapper" markdown="1">
 # Wireframes
-Design Services had previously had a tool for creating Social Alerts. However, the internal team wasn't maintaining the tool any more, and we had created a new responsive branded email Social Alert service we would be pitching to clients. My manager had set out a plan/outline for the tool, but we needed something concrete that our internal developer could use as the blueprints for creating the tool. Using a Bootstrap UI kit in Sketch, I prepared the initial screens and instructions to hand off to our developer.
+Our internal Design team had previously had a tool for creating branded email templates for clients. However, the original team that created it wasn't maintaining the tool any more, and we had created a new responsive branded email Social Alert service we would be pitching to clients. My manager set out a plan/outline for the tool, but we needed something  that our internal developer could use as the blueprints for creating the tool. Based on the requirements and our initial brainstorms, I prepared the user flow wireframes with instructions to hand off to the developer.
 </div>
 
 <div class="midsize-image">

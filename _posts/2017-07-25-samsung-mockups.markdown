@@ -8,7 +8,7 @@ caption: "UI Design"
 type: "Work"
 info: {Responsibilities: UI Designer, Type: Bazaarvoice, Date: 2017}
 intro: "Designing review and QA display for sales proposals to clients."
-longintro: "Solutions Consultants and Technical Account Managers sometimes request Design Services to present innovative solutions utilizing our PRR platform. In the course of those engagements, I've created UGC designs to show clients the capabilities of the platform."
+longintro: "Internal sales teams and client services teams sometimes request Design Services to present innovative solutions highlighting features and functionality for our internal reviews platform. In the course of those engagements, I've created a few consumer-generated content design examples to show clients the capabilities of the platform."
 style-class: mockups
 ---
 
