@@ -21,7 +21,7 @@ style-class: inmail
 <div class="full-bleed-white" markdown="1">
 <div class="wrapper" markdown="1">
 # Initial Designs
-Justin Stephens and I worked on different versions of interactive email design that would be mobile-friendly and easy to rebrand on a client by client basis. My version had initial designs branded for Target and Yeti, with the goal of making them easy to implement.
+A fellow designer and I worked on different versions of interactive email design that would be mobile-friendly and easy to rebrand on a client by client basis. My version had initial designs branded for Target and Yeti, with the goal of making them easy to implement and mobile first.
 </div>
 </div>
 

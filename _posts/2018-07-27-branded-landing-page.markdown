@@ -8,7 +8,7 @@ caption: "UI Design"
 type: "Work Project"
 info: {Responsibilities: UI Designer, Type: Bazaarvoice, Date: 2017}
 intro: "Designing and packaging a review collection application for clients."
-longintro: "An engagement manager had an idea for a review collection landing page that would help clients to collect more reviews. I worked with the Design Services team and internal resources to design the application using a React Framework."
+longintro: "An engagement manager at Bazaarvoice had an idea for a review collection landing page that would help clients to collect more reviews. I worked with our internal Design  team and internal resources to design the application using a React Framework."
 style-class: landingpage
 ---
 
